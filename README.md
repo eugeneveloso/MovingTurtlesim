@@ -1,4 +1,4 @@
-# MovingTurtlesim
+# move_turtlesim
 
 Clone this repository to the src file of a workspace. *(e.g., /catkin_ws/src/)*
 
