@@ -2,6 +2,8 @@
 
 Clone this repository to the src file of a workspace. *(e.g., /catkin_ws/src/)*
 
+From the root of your workspace, build the packages by running "catkin_make".
+
 When installed, you can run one of two launch files:
 
 - To run a turtlesim mode that will move in a circle, run "move_circle.launch".
