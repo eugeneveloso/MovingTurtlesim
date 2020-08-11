@@ -11,4 +11,4 @@ When installed, you can run one of two launch files:
 - To run a turtlesim node that will move forward, run the launch file "move_forward.launch". Once the turtlesim node is displayed, enter the distance that you
 would like to move forward in the terminal and press enter.
 
-To exit either program, enter Ctrl^C in the terminal
+To exit either program, enter Ctrl^C in the terminal.
